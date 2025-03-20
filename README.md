@@ -18,5 +18,5 @@
 * QQ机器人 QQ chat bot
 * 文园943站台 Wen Yuan 943 website [wy943](https://xmyz.school.wy943.com/)
 ## Github Stats✨
-![IncrFunc's GitHub stats](https://github-readme-stats.vercel.app/api?username=incrfunc)
+<a href="http://www.github.com/incrfunc"><img src="https://github-readme-stats.vercel.app/api?username=incrfunc&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="incrfunc's GitHub stats" /></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incrfunc)
