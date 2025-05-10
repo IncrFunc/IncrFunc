@@ -1,7 +1,7 @@
 # 你好！👋 欢迎点击我的主页！Welcome to my page!
   May each day bring you joy!
 ## 关于我 About me
-* 就读厦门大学 A Xmuer
+* 就读厦门大学-航空航天学院-自动化系-自动化专业 A Xmuer - School of Aerospace Engineering - Department of Automation - Automation
 * ENFP 快乐小狗
 * 🌍居住在厦门 Live in Xiamen,Fujian,China
 * 🖥️你可以访问我的网站 You can visit my website. [IncrFunc](http://www.incrfunc.xyz)
